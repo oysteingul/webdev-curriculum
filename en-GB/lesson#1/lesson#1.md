@@ -6,7 +6,7 @@ language: en
 
 # Introduction { .intro}
 
-Have you ever wondered how the worldwide web works? Of course you have! Today you will learn how to make web sites so you too can contribute to building it. Websites are written using __HTML__, which stands for __HyperText Markup Language__. You will find out more about it as you build your page.
+Har du noengang lurt på hvordan Internet virker? Selvsagt har du det! I dag skal du lære å lage en hjemmeside så du også kan være med å lage sider på Internet. Man bruker  __HTML__ når man skal lage en slik side. Det står for __HyperText Markup Language__. Du vil lære mer om det når du bygger siden din.
 
 # Step 1: What are web pages? { .activity}
 
