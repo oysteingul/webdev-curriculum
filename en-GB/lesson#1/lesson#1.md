@@ -8,13 +8,13 @@ language: en
 
 Har du noengang lurt på hvordan Internet virker? Selvsagt har du det! I dag skal du lære å lage en hjemmeside så du også kan være med å lage sider på Internet. Man bruker  __HTML__ når man skal lage en slik side. Det står for __HyperText Markup Language__. Du vil lære mer om det når du bygger siden din.
 
-# Step 1: What are web pages? { .activity}
+# Steg 1: Hva er en Webside? { .activity}
 
-## Activity Checklist { .check}
+## Aktivitetsliste{ .check}
 
-1. Open a __text editor__. 
-2. Create a new document. 
-3. Write something! For example:
+1. Åpne en  __tekst editor__. 
+2. Lag et nytt dokument. 
+3. Skriv noe! For example:
 `Hello! My name is …`
 4. Save the file. Call it `hello.txt`.
 5. Now find the file and open it again. It opens up in a text editor, which is not that much fun.
